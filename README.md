@@ -7,6 +7,8 @@ Self-executing smart-contracts operating within an increasingly advanced online 
 
 Building blocks
 Before we continue, those new to blockchain may wish to familiarise themselves with some foundational concepts/terms. These have been outlined below, depicted in pyramid formation for extra explanatory power.
+![Pyramid](https://cdn-images-1.medium.com/max/1200/1*6e3nxS3H19MZ2z3PL38Z9A.png)
+
 
 ## The Decentralised Autonomous Organisation ##
 When you strip everything back, a company is essentially a complex interconnected web of contracts, (employment contracts, licensing agreements, debt and equity arrangements etc). With increasing precision, contracts and processes can be encoded to self-execute on the occurrence of predefined triggers. When layered across the blockchain — which provides certainty and security — these so-called smart-contracts can create self-sustaining online entities without a recognised legal personality and unbound by jurisdictional limitations; popularly referred to as DAOs.
@@ -45,29 +47,38 @@ User or Equity tokens issued by a DAO may amount to an offer of securities, a fi
 
 I note that in a submission to the ‘Senate inquiry into digital currency’ in December 2014, ASIC stated that it did not consider Bitcoin or ‘digital currencies’ to be financial products and that licenses are not needed to trade or hold them.[18] However, in the past two years we’ve seen the rise of Ethereum and the Decentralised Organisation as part of the second wave of blockchain innovation. New regulatory guidance is required to accommodate these new and varied crypto-assets, for which ‘digital currency’ is far too narrow a description.
 
-_1. Securities (shares and debentures)_
+## 1. Securities (shares and debentures)_
 Under section 92 of the Corporations Act, a security includes shares in, or debentures of, a body. A body is broadly defined as “a body corporate or an unincorporated body and includes, for example, a society or association”.[19] An offer of securities is prohibited in Australia without a product disclosure statement (“PDS”).[20]
-User Tokens 
 
-## Equity Tokens ##
+### User Tokens 
+![user tokens](https://cdn-images-1.medium.com/max/800/1*vufR2RNfP0kwr6_e_nMA4w.png)
+### Equity Tokens 
+![equity tokens](https://cdn-images-1.medium.com/max/800/1*2mFo-JZZnyQiulNWymJwlQ.png)
 
-_2. Financial Products_
+
+## 2. Financial Products 
 The term financial product refers to a facility through which a person makes a financial investment.[27] The necessary characteristics of a financial investment can be summarised: (1) an investor gives money or money’s worth to another person; (2) the contributions are used to generate or with the intention of generating a financial benefit/return; (3) the investor has no day-to-day control over the use of their contribution.[28]
 
 An offer of a financial product must generally be accompanied by a PDS, containing such information as might reasonably be expected to have a material influence on a decision to acquire the product.[29] The Corporations Act establishes strict liability for false or misleading statements made in a PDS.[30]
 
 As we will see, crypto-tokens cannot easily be pressed into the definition of a financial product and DAOs are likely to fall outside the scope of Australian financial regulation.
-User Tokens
 
-Equity Tokens
+### User Tokens
+![user](https://cdn-images-1.medium.com/max/800/1*akjnFzr0FCpe-smiuPNVxA.png)
 
-_3. Managed Investment Schemes_
+### Equity Tokens
+![equity](https://cdn-images-1.medium.com/max/800/1*js74mbZ3TuTDrZRbCaRk8Q.png)
+
+## 3. Managed Investment Schemes_
 An interest in a Managed Investment Scheme (a type of financial product) requires an additional characteristic, namely that contributions are pooled or used in common enterprise.[39] Such schemes are subject to further compliance requirements under Chapter 5C of the Corporations Act.
-User Tokens
 
-## Equity Tokens ##
+### User Tokens
+![](https://cdn-images-1.medium.com/max/800/1*Ugq6agtK_8IUHx_26sLtbg.png)
 
-### Who’s liable? ### 
+### Equity Tokens 
+![](https://cdn-images-1.medium.com/max/800/1*YCIxKLuB4RbbKMZ8qAPpWQ.png)
+
+## Who’s liable? ##
 
 In the unlikely event that a crypto-token falls within definition of a security or financial product, Australian financial services regulations may apply. The ASIC regulatory guide on Offers of Securities on the Internet makes it clear that in the absence of clear disclaimers and barriers to access, an online offer with the potential to impact Australian investors would be regulated by ASIC.[41] However, as we are dealing with an entity that operates wholly on the blockchain, without a recognsied legal personality, attributing liability requires a level of creativity.
 
@@ -79,13 +90,16 @@ Creators and promoters of DAOs often rely on ineffective disclaimers in an attem
 
 “The terms of The DAO Creation are set forth in the smart contract code existing on the Ethereum blockchain at 0xbb9bc244d798123fde783fcc1c72d3bb8c189413. Nothing in this explanation of terms or in any other document or communication may modify or add any additional obligations or guarantees beyond those set forth in The DAO’s code…”[52]
 Such disclaimers are rendered impotent by an inability to waive your obligations under Australian securities or consumer law.
-Questions not answers
+
+## Questions not answers
 
 An assessment of the DAOs place within the current Australian legal framework certainly raises more questions than answers. However, this brief excursion to the frontier of blockchain technology has demonstrated that existing financial regulations cannot easily be moulded around the varied and mutable forms of the Decentralised Organisation. Even if a legitimate cause of action could be established against the original coders, associated entities or promoters of a DAO, enforcing a judgment remains a complex and costly process. The implicated parties are possibly anonymous, probably in a foreign jurisdiction and almost certainly unaware of their obligations under Australian law.
 
 We are witnessing the dawn of the DAO; the rise of an online economic eco-system where code is law. Maintaining centralised control across the decentralised network will require an international and collaborative response.
-For more Research by Liberté & Co, head to our publication.
-To buy and sell cryptocurrencies and blockchain assets, head to our brokerage.
+
+
+# Author: Henry Wells
+If you'd like to contribute to this work, or have any questions–please contact hw [at] theliberte.co or submit a pull request.
 
 
 ## References: ##
