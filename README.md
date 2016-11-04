@@ -10,7 +10,7 @@ Before we continue, those new to blockchain may wish to familiarise themselves w
 ![Pyramid](https://cdn-images-1.medium.com/max/1200/1*6e3nxS3H19MZ2z3PL38Z9A.png)
 
 
-## The Decentralised Autonomous Organisation ##
+## The Decentralised Autonomous Organisation 
 When you strip everything back, a company is essentially a complex interconnected web of contracts, (employment contracts, licensing agreements, debt and equity arrangements etc). With increasing precision, contracts and processes can be encoded to self-execute on the occurrence of predefined triggers. When layered across the blockchain — which provides certainty and security — these so-called smart-contracts can create self-sustaining online entities without a recognised legal personality and unbound by jurisdictional limitations; popularly referred to as DAOs.
 
 The term DAO was coined by Ethereum founder, Vitalik Buterin, back in 2014.[3] Whilst he distinguished Decentralised Organisations (humans interacting with each other in accordance with an encoded protocol enforced on the blockchain) and Decentralised Autonomous Organisations (entities making decisions independent of human input), the term DAO is often used as a catchall to refer to any blockchain-based entity where ‘corporate governance’ and participation is dictated by precoded rules.[4]
@@ -20,11 +20,11 @@ The term DAO may indeed be a misnomer, as Coinbase Founder Fred Ehrsam explains 
 Through the issuance of crypto-tokens, DAOs are able to create their own self-contained economic systems. These blockchain based assets can serve a variety of functions: providing access to a network, operating as a form of internal currency or providing token holders with profit-share or voting entitlements. Crypto-tokens are freely transferrable and their price may fluctuate over time, in a manner not dissimilar to company shares. Many DAOs have raised significant amounts of capital to fund further development by creating and selling these tokens.[8]
 What follows is a consideration of the status of these tokens under Australian securities law as well as broader questions of liability. Please note that neither crypto-tokens nor the entities that issue them are homogenous and the application of Australian legal principles will be complex and fact-specific. None of the information below should be construed as legal advice.
 
-## Crypto-tokens ## 
+## Crypto-tokens 
 
 Crypto-tokens defy simple categorisation, with their function limited only by the imagination of their creator and the technical constraints of the blockchain on which they operate. However, they can be broadly categorised as either User Tokens or Equity Tokens.
 
-## User Tokens ##
+## User Tokens 
 
 User tokens are effectively digital currency used to access network services, with Albert Wenger likening them to ride-tokens at a fair ground.[9] DAOs are designed to require these tokens as a metaphorical ‘fuel’. Some examples include:
 
@@ -32,14 +32,14 @@ _Ethereum_ — a distributed network with a built-in flexible programming la
 
 _Steemit_ — a media democratisation platform, similar to Reddit, that aims to build a decentralised media network by incentivising contribution and participation.[12] Members receive Steem tokens for ‘upvoting’ good comments/content and contributors who are ‘upvoted’ are similarly rewarded.
 
-## Equity Tokens ## 
+## Equity Tokens 
 Equity tokens provide a level of ownership or control over a DAO but are not required to access services provided by the network. Equity tokens are often sold to finance network development. In exchange for their contributions, token holders are entitled to “dividends” in the form of profit sharing or transaction fees and often have conditional rights to submit and vote on proposals. Some examples include:
 
 _“The DAO”_ — effectively a managed fund that took contributions from investors (in the form of Ether) in exchange for transferrable DAO Tokens which provided voting rights and represented units in the fund. Token holders could put forward proposals to invest contributions in various blockchain-based companies or projects; these were then voted on by other participants.[13] “The DAO” attracted considerable attention after it raised the equivalent of USD$168 million.[14] Its spectacular rise was eclipsed only by its fall. On 17 June 2016, a weakness in “The DAO’s” code was maliciously exploited by a hacker who was able to drain a considerable amount of “The DAO’s” funds.
 
 _DigixDAO_ — a system for the tokenisation and documentation of physical assets. The system utilises two types of tokens, Digix Gold Tokens (DGX) that are tied to underlying physical gold and DigixDAO Tokens (DGD) that entitle holders to voting rights and a share in DGX transaction fees.[15] Singapore based company Digix Global is currently paid by the DAO to develop the Digix network.[16] In March 2016, the DGD crowdsale raised $5.5 million worth of Ether in just 14 hours.[17]
 
-## Australian Securities Law ##
+## Australian Securities Law 
 
 Australian securities law largely mirrors the approach in the United States. However, where the US Securities Act of 1933 progresses on a broad definition of ‘security’, the Australian Corporations Act 2001 breaks things up into ‘financial products’ and ‘securities’ (shares and debentures).
 
@@ -78,7 +78,7 @@ An interest in a Managed Investment Scheme (a type of financial product) require
 ### Equity Tokens 
 ![](https://cdn-images-1.medium.com/max/800/1*YCIxKLuB4RbbKMZ8qAPpWQ.png)
 
-## Who’s liable? ##
+## Who’s liable? 
 
 In the unlikely event that a crypto-token falls within definition of a security or financial product, Australian financial services regulations may apply. The ASIC regulatory guide on Offers of Securities on the Internet makes it clear that in the absence of clear disclaimers and barriers to access, an online offer with the potential to impact Australian investors would be regulated by ASIC.[41] However, as we are dealing with an entity that operates wholly on the blockchain, without a recognsied legal personality, attributing liability requires a level of creativity.
 
@@ -102,7 +102,7 @@ We are witnessing the dawn of the DAO; the rise of an online economic eco-system
 If you'd like to contribute to this work, or have any questions–please contact hw [at] theliberte.co or submit a pull request.
 
 
-## References: ##
+## References: 
 [1] Mount Isa Mines v Pusey (1970) 125 CLR 383, 395 (Windeyer J).
 [2] Peter Van Valkenburgh et al, ‘Distributed Collaborative Organisations’ (Investigative Report, Coin Center) 8.
 [3] Vitalik Buterin, ‘DAOs, DACs, DAs and More: An Incomplete Terminology Guide’ on Ethereum Blog (6 May 2014) 
