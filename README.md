@@ -1,6 +1,6 @@
 # Dawn of the DAO #
 ### Australian securities law and the second wave of blockchain innovation ###
-#### _A revolutionary asset class cumulatively worth billions of dollars has emerged from the deep web, and Australian regulators aren’t ready
+#### _A revolutionary asset class cumulatively worth billions of dollars has emerged from the deep web, and Australian regulators aren’t ready_
 
 Commenting on the laws inability to keep pace with advances in medical science, Justice Windeyer of the High Court of Australia remarked that the law is “marching with medicine, but in the rear and limping a little”.[1] As the world embraces the second wave of blockchain innovation, I would argue that the law is crawling behind on all fours and losing ground.
 
